@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DavideSlp
-- 🌱 I’m currently learning from the CS50x course
+- CS50x, CS50P
